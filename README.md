@@ -22,4 +22,4 @@ The dashboard helps visualize and analyze sales performance across different cou
 3. Customize filters and charts for deeper insights.  
 
 ---
-✅ This project is ideal for showcasing **Data Analytics skills** in your portfolio.  
+
